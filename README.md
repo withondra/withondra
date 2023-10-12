@@ -1,6 +1,6 @@
 - Hi, I’m @withondra
-- I'm currently learning with Python
-- I'm not so good, just almost newbie
+- I'm currently learning Python
+- I'm Intermediate
 - I'm from Czech Republic
 
 <!---
